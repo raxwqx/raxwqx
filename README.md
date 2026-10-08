@@ -1,13 +1,13 @@
 # 𝗦𝗧𝗬𝗫𝗛𝗤 · he/him
 
-🛡️ **Cybersecurity** · 🔎 **OSINT** · 🐍 **Python** · 🦀 **Rust** · 🟦 **Go** · 🐧 **Linux**
+🛡️ **Cybersecurity** ·  👁️ **OSINT** ·⚙️ **Python** ·  👾 **Rust** · 🌐 **Go** · 🐧 **Linux**
 
 **Security Research · Networking · CTFs**
 
 ---
 
-## 🧰 MY TOOLS
-
+##  💻 MY TOOLS
+ 
 | Project                                                | Language | Focus                              |
 | ------------------------------------------------------ | -------- | ---------------------------------- |
 | 🕷️ [STYX-RECON](https://github.com/raxwqx/STYX-RECON) | Python   | DNS reconnaissance & intelligence  |
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GitHub
+## 🧾  GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F9DFF" height="165">
