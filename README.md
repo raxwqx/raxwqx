@@ -1,4 +1,4 @@
-# 𝐒𝐭𝐲𝐱𝐇𝐐 · he/him
+# 𝗦𝗧𝗬𝗫𝗛𝗤 · he/him
 
 🛡️ **Cybersecurity** · 🔎 **OSINT** · 🐍 **Python** · 🦀 **Rust** · 🟦 **Go** · 🐧 **Linux**
 
