@@ -2,7 +2,7 @@
 
 ### Cybersecurity · Security Tooling · Network Analysis
 
-**Python · Rust · Go · Linux**
+** 🐍Python · 🦀Rust · 🐹Go · 🐧Linux**
 
 Building practical tools for defensive security, network intelligence, reconnaissance, and threat hunting.
 
@@ -21,7 +21,7 @@ I focus on understanding how systems and networks work, turning technical concep
 
 ---
 
-## 🔧 MY TOOLS
+## 🥇 My favorite tools
 
 | Project                                                | Language | Focus                                         |
 | :----------------------------------------------------- | :------: | :-------------------------------------------- |
@@ -29,9 +29,9 @@ I focus on understanding how systems and networks work, turning technical concep
 | 🕸️ [styxscan](https://github.com/raxwqx/styxscan)     |  Python  | HTTP, TLS, DNS & security analysis            |
 | 🛰️ [SPECTRA](https://github.com/raxwqx/SPECTRA)       |   Rust   | Offline PCAP / PCAPNG traffic analysis        |
 | 🌐 [ORBIT](https://github.com/raxwqx/ORBIT)            |    Go    | DNS & network intelligence                    |
-| 🕷️ [STYX-RECON](https://github.com/raxwqx/STYX-RECON) |  Python  | DNS reconnaissance & intelligence             |
+| 🪪 [STYX-RECON](https://github.com/raxwqx/STYX-RECON) |  Python  | DNS reconnaissance & intelligence             |
 | 📡 [NEXUS](https://github.com/raxwqx/NEXUS)            |  Python  | Lightweight TCP port scanning                 |
-| 🧪 [STYX-LAB](https://github.com/raxwqx/STYX-LAB)      |  Python  | Controlled security experiments & methodology |
+| 🧬 [STYX-LAB](https://github.com/raxwqx/STYX-LAB)      |  Python  | Controlled security experiments & methodology |
 
 ---
 
@@ -45,7 +45,7 @@ I focus on understanding how systems and networks work, turning technical concep
 
 ---
 
-## 🧪 ENGINEERING PRINCIPLES
+## 📂 ENGINEERING PRINCIPLES
 
 * Build tools with a clearly defined scope.
 * Prefer testable behavior over unsupported claims.
@@ -56,7 +56,7 @@ I focus on understanding how systems and networks work, turning technical concep
 
 ---
 
-## 📊 GITHUB ACTIVITY
+## 🧾 GITHUB ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F9DFF" height="165" alt="GitHub statistics" />
