@@ -2,7 +2,7 @@
 
 ### Cybersecurity · Security Tooling · Network Analysis
 
-** 🐍Python · 🦀Rust · 🐹Go · 🐧Linux**
+🐍 Python · 🦀 Rust · 🐹 Go · 🐧 Linux
 
 Building practical tools for defensive security, network intelligence, reconnaissance, and threat hunting.
 
