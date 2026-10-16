@@ -29,7 +29,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 </tr>
 </table>
 
-## Project Portfolio
+## my favorite tools 🎖️
 
 | Project | Description | Language |
 |---|---|---|
