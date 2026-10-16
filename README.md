@@ -29,7 +29,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 </tr>
 </table>
 
-## Project Portfolio
+## my favorite tools 🎖️
 
 | Project | Description | Language |
 |---|---|---|
@@ -54,7 +54,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-## Areas of Interest
+## Areas of Interest 🖧
 
 - Network reconnaissance and protocol analysis
 - Web security and vulnerability research
@@ -62,7 +62,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 - OSINT and security automation
 - Defensive security tooling
 
-## GitHub Activity
+## GitHub Activity 📋
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
