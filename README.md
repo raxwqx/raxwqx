@@ -29,17 +29,17 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 </tr>
 </table>
 
-## my favorite tools 🎖️
+## Project Portfolio
 
 | Project | Description | Language |
 |---|---|---|
 | **[NOXTRACE](https://github.com/raxwqx/NOXTRACE)** | Multi-engine security workstation | Multi-language |
-| **[TIDEWATCH](https://github.com/raxwqx)** | Offline Linux log threat hunting | Rust |
+| **[TIDEWATCH](https://github.com/raxwqx/TIDEWATCH)** | Offline Linux log threat hunting | Rust |
 | **[styxscan](https://github.com/raxwqx/styxscan)** | HTTP, TLS and DNS reconnaissance | Python |
-| **[SPECTRA](https://github.com/raxwqx)** | Offline PCAP/PCAPNG traffic analysis | Rust |
-| **[ORBIT](https://github.com/raxwqx)** | DNS and network intelligence | Go |
-| **[STYX-RECON](https://github.com/raxwqx)** | Passive DNS reconnaissance | Python |
-| **[NEXUS](https://github.com/raxwqx)** | Lightweight TCP port scanner | Python |
+| **[SPECTRA](https://github.com/raxwqx/SPECTRA)** | Offline PCAP/PCAPNG traffic analysis | Rust |
+| **[ORBIT](https://github.com/raxwqx/ORBIT)** | DNS and network intelligence | Go |
+| **[STYX-RECON](https://github.com/raxwqx/STYX-RECON)** | Passive DNS reconnaissance | Python |
+| **[NEXUS](https://github.com/raxwqx/NEXUS)** | Lightweight TCP port scanner | Python |
 | **[STYX-LAB](https://github.com/raxwqx/STYX-LAB)** | Structured security learning lab | Python / Documentation |
 
 ## Technical Stack
@@ -54,7 +54,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-## Areas of Interest 🖧
+## Areas of Interest
 
 - Network reconnaissance and protocol analysis
 - Web security and vulnerability research
@@ -62,7 +62,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 - OSINT and security automation
 - Defensive security tooling
 
-## 📋 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
