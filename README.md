@@ -1,99 +1,78 @@
-# 𝗦𝗧𝗬𝗫𝗛𝗤 · he/him
+# 𝗦𝗧𝗬𝗫𝗛𝗤
 
-### Cybersecurity · Security Tooling · Network Intelligence
+### Cybersecurity Engineer in Progress · Security Tooling · Network Intelligence
 
-🐍 Python · 🦀 Rust · 🐹 Go · ⚙️ C · ☕ Java · 🐚 Bash · 🐧 Linux
+Building security tools, exploring network protocols, and learning how systems work under the hood.
 
-Building practical security tools for defensive security, network intelligence, reconnaissance, digital forensics, and threat hunting.
-
-I focus on understanding how systems and networks work, translating technical concepts into working software, and improving reliability through testing, documentation, and hands-on experimentation.
-
----
-
-## 🛡️ TECHNICAL FOCUS
-
-- **Security Tool Development** — Building modular command-line tools for security analysis and investigation.
-- **Network Intelligence** — DNS analysis, network discovery, TCP/IP fundamentals, and protocol investigation.
-- **Web Security Analysis** — HTTP, TLS, security headers, cookies, and configuration assessment.
-- **Threat Hunting** — Linux log analysis, evidence-based detection, and incident triage.
-- **Digital Forensics & Traffic Analysis** — Offline PCAP/PCAPNG inspection, packet analysis, and network statistics.
-- **Security Research & OSINT** — Public information analysis, reconnaissance, and authorized security research.
-- **Software Engineering** — Testing, modular architecture, documentation, and reproducible workflows.
+[![GitHub](https://img.shields.io/badge/GitHub-raxwqx-181717?style=flat-square&logo=github)](https://github.com/raxwqx)
+[![Linux](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Focus](https://img.shields.io/badge/Focus-Cybersecurity-2563EB?style=flat-square)](#)
 
 ---
 
-## 🥇 FEATURED PROJECTS
+## Featured Project
 
-| Project | Language | Focus |
-|:--|:--|:--|
-| 🦊 [NOXTRACE](https://github.com/raxwqx/NOXTRACE) | Python · Go · Rust · C · Java · Bash | Multi-engine security analysis workstation |
-| 🌊 [TIDEWATCH](https://github.com/raxwqx/TIDEWATCH) | Rust | Linux log threat hunting & incident triage |
-| 🕸️ [styxscan](https://github.com/raxwqx/styxscan) | Python | HTTP, TLS, DNS & security analysis |
-| 🛰️ [SPECTRA](https://github.com/raxwqx/SPECTRA) | Rust | Offline PCAP/PCAPNG traffic analysis |
-| 🌐 [ORBIT](https://github.com/raxwqx/ORBIT) | Go | DNS & network intelligence |
-| 🪪 [STYX-RECON](https://github.com/raxwqx/STYX-RECON) | Python | Passive DNS reconnaissance |
-| 📡 [NEXUS](https://github.com/raxwqx/NEXUS) | Python | Lightweight TCP port scanning |
-| 🧬 [STYX-LAB](https://github.com/raxwqx/STYX-LAB) | Python | Controlled security experiments & methodology |
+<table>
+<tr>
+<td width="100%">
 
-### 🦊 NOXTRACE
+### 🔎 NOXTRACE
+**Multi-Engine Security Workstation**
 
-A multi-engine security workstation designed to bring practical security analysis into one workflow.
+A security toolkit designed to bring network reconnaissance, web inspection, source-code analysis, and digital investigation into one workflow.
 
-- IP intelligence, DNS lookups, and reverse DNS.
-- Controlled network and port analysis.
-- HTTP/TLS inspection and web security checks.
-- Source-code security analysis and OSV vulnerability intelligence.
-- Digital investigation and structured findings.
-- JSON and HTML reporting.
+`Python` `Go` `Rust` `C` `Java` `Bash`
 
-**Repository:** [raxwqx/NOXTRACE](https://github.com/raxwqx/NOXTRACE)
+[**↗ View Repository**](https://github.com/raxwqx/NOXTRACE)
 
----
+</td>
+</tr>
+</table>
 
-## ⚙️ TECHNOLOGIES
+## Project Portfolio
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Project | Description | Language |
+|---|---|---|
+| **[NOXTRACE](https://github.com/raxwqx/NOXTRACE)** | Multi-engine security workstation | Multi-language |
+| **[TIDEWATCH](https://github.com/raxwqx)** | Offline Linux log threat hunting | Rust |
+| **[styxscan](https://github.com/raxwqx/styxscan)** | HTTP, TLS and DNS reconnaissance | Python |
+| **[SPECTRA](https://github.com/raxwqx)** | Offline PCAP/PCAPNG traffic analysis | Rust |
+| **[ORBIT](https://github.com/raxwqx)** | DNS and network intelligence | Go |
+| **[STYX-RECON](https://github.com/raxwqx)** | Passive DNS reconnaissance | Python |
+| **[NEXUS](https://github.com/raxwqx)** | Lightweight TCP port scanner | Python |
+| **[STYX-LAB](https://github.com/raxwqx/STYX-LAB)** | Structured security learning lab | Python / Documentation |
 
-**Core interests:** Linux · TCP/IP · DNS · HTTP/TLS · Network Protocols · Log Analysis · Vulnerability Intelligence · Digital Forensics · Defensive Security
+## Technical Stack
 
----
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
-## 🧰 ENGINEERING PRINCIPLES
+## Areas of Interest
 
-- Build tools with a clearly defined scope and purpose.
-- Prefer verified results over unsupported claims.
-- Keep findings evidence-based and explain their limitations.
-- Design software for testing, maintainability, and reproducibility.
-- Document installation, usage, expected behavior, and known limitations.
-- Conduct security testing only in controlled environments or against authorized targets.
-- Prioritize defensive analysis, responsible research, and practical learning.
+- Network reconnaissance and protocol analysis
+- Web security and vulnerability research
+- Digital forensics and traffic analysis
+- OSINT and security automation
+- Defensive security tooling
 
----
+## GitHub Activity
 
-## 📊 GITHUB ACTIVITY
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=1F9DFF)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raxwqx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=raxwqx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F9DFF&currStreakLabel=58A6FF)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxwqx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
 
 ---
 
-## 🎯 CURRENT DIRECTION
-
-- Expanding a collection of focused security and network analysis tools.
-- Improving code quality, test coverage, and documentation.
-- Exploring network protocols, vulnerability intelligence, and defensive security workflows.
-- Building reproducible labs for learning, experimentation, and investigation.
-
----
-
-> **Understand systems. Build tools. Verify findings.**
+<p align="center">
+  <strong>Understand systems. Build tools. Verify findings.</strong>
+  <br />
+  <sub>Security research and testing should be performed only on systems you own or are authorized to assess.</sub>
+</p>
