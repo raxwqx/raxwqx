@@ -8,6 +8,12 @@ Building security tools, exploring network protocols, and learning how systems w
 [![Linux](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Focus](https://img.shields.io/badge/Focus-Cybersecurity-2563EB?style=flat-square)](#)
 
+## 🌐 Community
+
+[![GDG Antalya Community](https://img.shields.io/badge/Community-GDG_Antalya-4285F4?style=flat-square&logo=google&logoColor=white)](https://gdg.community.dev/gdg-antalya/)
+
+Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antalya/).
+
 ---
 
 ## Featured Project
