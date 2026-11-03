@@ -17,12 +17,8 @@ Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antaly
 ## 🎊 Sponsors & Supporters
 
 <p align="center">
-  <a href="https://hackclub.com/">
-    <img src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club Flag" width="180">
-  </a>
-  <br><br>
   <a href="https://hcb.hackclub.com/">
-    <img src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club Bank" width="120">
+    <img src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club" width="180">
   </a>
 </p>
 
