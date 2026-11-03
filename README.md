@@ -14,10 +14,13 @@ Building security tools, exploring network protocols, and learning how systems w
 
 Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antalya/).
 
+[![Hack Club Bank](https://img.shields.io/badge/HCB-Fiscal_Sponsorship-EC3750?style=flat-square&logo=hackclub&logoColor=white)](https://hcb.hackclub.com/)
+
+Supported through [Hack Club Bank (HCB)](https://hcb.hackclub.com/) fiscal sponsorship.
+
 ---
 
 ## Featured Project
-
 <table>
 <tr>
 <td width="100%">
