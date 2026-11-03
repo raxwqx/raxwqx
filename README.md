@@ -14,14 +14,13 @@ Building security tools, exploring network protocols, and learning how systems w
 
 Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antalya/).
 
-[![Hack Club Bank](https://img.shields.io/badge/HCB-Fiscal_Sponsorship-EC3750?style=flat-square&logo=hackclub&logoColor=white)](https://hcb.hackclub.com/)
+[![Hack Club](https://img.shields.io/badge/Hack_Club-Fiscal_Sponsor-EC3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hackclub.com/)
 
-Supported through [Hack Club Bank (HCB)](https://hcb.hackclub.com/) fiscal sponsorship.
+[![Hack Club Bank](https://img.shields.io/badge/Hack_Club_Bank-HCB-EC3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hcb.hackclub.com/)
 
 **Supported Project:** [STYX-LAB](https://github.com/raxwqx/STYX-LAB)
 
-STYX-LAB receives fiscal sponsorship through Hack Club Bank.
-
+STYX-LAB receives fiscal sponsorship through [Hack Club Bank (HCB)](https://hcb.hackclub.com/).
 ---
 
 ## Featured Project
