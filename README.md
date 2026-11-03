@@ -13,14 +13,22 @@ Building security tools, exploring network protocols, and learning how systems w
 [![GDG Antalya Community](https://img.shields.io/badge/Community-GDG_Antalya-4285F4?style=flat-square&logo=google&logoColor=white)](https://gdg.community.dev/gdg-antalya/)
 
 Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antalya/).
+---
+## 🎊 Sponsors & Supporters
 
-[![Hack Club](https://img.shields.io/badge/Hack_Club-Fiscal_Sponsor-EC3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hackclub.com/)
-
-[![Hack Club Bank](https://img.shields.io/badge/Hack_Club_Bank-HCB-EC3750?style=for-the-badge&logo=hackclub&logoColor=white)](https://hcb.hackclub.com/)
+<p align="center">
+  <a href="https://hackclub.com/">
+    <img src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club Flag" width="180">
+  </a>
+  <br><br>
+  <a href="https://hcb.hackclub.com/">
+    <img src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club Bank" width="120">
+  </a>
+</p>
 
 **Supported Project:** [STYX-LAB](https://github.com/raxwqx/STYX-LAB)
 
-STYX-LAB receives fiscal sponsorship through [Hack Club Bank (HCB)](https://hcb.hackclub.com/).
+STYX-LAB is supported through fiscal sponsorship by [Hack Club Bank (HCB)](https://hcb.hackclub.com/).
 ---
 
 ## Featured Project
