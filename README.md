@@ -81,8 +81,8 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 ## GitHub Activity 📋
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raxwqx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxwqx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raxwqx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raxwqx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 ---
