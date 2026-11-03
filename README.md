@@ -18,6 +18,10 @@ Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antaly
 
 Supported through [Hack Club Bank (HCB)](https://hcb.hackclub.com/) fiscal sponsorship.
 
+**Supported Project:** [STYX-LAB](https://github.com/raxwqx/STYX-LAB)
+
+STYX-LAB receives fiscal sponsorship through Hack Club Bank.
+
 ---
 
 ## Featured Project
