@@ -27,17 +27,11 @@ jobs:
           user: raxwqx
           base: ""
           config_timezone: Europe/Istanbul
-          config_theme: github_dark
           config_display: columns
           output_action: none
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          plugin_habits: no
 
       - name: Generate languages card
         uses: lowlighter/metrics@v3.34
@@ -47,7 +41,6 @@ jobs:
           user: raxwqx
           base: ""
           config_timezone: Europe/Istanbul
-          config_theme: github_dark
           config_display: columns
           output_action: none
           plugin_languages: yes
@@ -60,6 +53,8 @@ jobs:
 
       - name: Commit and push generated cards
         run: |
+          sudo mkdir -p assets
+          sudo mv /metrics_renders/assets/*.svg assets/ 2>/dev/null || true
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/metrics-*.svg
