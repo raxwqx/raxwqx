@@ -81,8 +81,24 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 ## GitHub Activity 📋
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raxwqx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raxwqx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <a href="https://github.com/raxwqx">
+    <img width="700" alt="raxwqx's GitHub profile summary: contributions, public repositories and account age" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raxwqx&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/raxwqx?tab=repositories">
+    <img width="340" alt="raxwqx's GitHub statistics: stars, commits, pull requests and issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raxwqx&theme=github_dark" />
+  </a>
+  <a href="https://github.com/raxwqx?tab=repositories">
+    <img width="340" alt="raxwqx's most used languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raxwqx&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/raxwqx">
+    <img width="495" alt="raxwqx's current and longest GitHub contribution streak" src="https://streak-stats.demolab.com?user=raxwqx&theme=github-dark&hide_border=true" />
+  </a>
 </p>
 
 ---
