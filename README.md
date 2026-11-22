@@ -108,7 +108,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
   <br />
   <sub>Security research and testing should be performed only on systems you own or are authorized to assess.</sub>
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <img src="https://raw.githubusercontent.com/tormentionrex-hub/tormentionrex-hub/main/assets/auricolare-linux.gif" width="120px" />
 </div>
