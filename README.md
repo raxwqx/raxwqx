@@ -29,25 +29,23 @@ STYX-LAB is supported through fiscal sponsorship by [Hack Club Bank (HCB)](https
 
 ## 🚀 Featured Projects
 
-### 💠 [ARGENT](https://github.com/raxwqx/argent)
+<p align="center">
+  <a href="https://github.com/raxwqx/argent" title="Open Argent on GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raxwqx/raxwqx/main/assets/argent-card-dark.svg">
+      <img src="https://raw.githubusercontent.com/raxwqx/raxwqx/main/assets/argent-card-light.svg" alt="Argent — symbolic execution engine for a 32-bit ISA. Opens the repository." width="100%">
+    </picture>
+  </a>
+</p>
 
-A from-scratch symbolic executor for a 32-bit ISA: it assembles a text program, forks at data-dependent branches, prunes infeasible paths with z3, and replays every candidate input concretely before reporting it.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![z3](https://img.shields.io/badge/z3-8b949e?style=flat-square)
-![SMT](https://img.shields.io/badge/SMT-6e7681?style=flat-square)
-[![Repository](https://img.shields.io/badge/Repository-argent-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raxwqx/argent)
-[![Live Pipeline](https://img.shields.io/badge/Live_Pipeline-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://raxwqx.github.io/argent/)
-
-### 🔎 [NOXTRACE](https://github.com/raxwqx/NOXTRACE)
-
-A multi-engine security workstation that brings network reconnaissance, web inspection, source-code analysis, and digital investigation into one workflow.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-[![Repository](https://img.shields.io/badge/Repository-NOXTRACE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raxwqx/NOXTRACE)
+<p align="center">
+  <a href="https://github.com/raxwqx/NOXTRACE" title="Open NOXTRACE on GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raxwqx/raxwqx/main/assets/noxtrace-card-dark.svg">
+      <img src="https://raw.githubusercontent.com/raxwqx/raxwqx/main/assets/noxtrace-card-light.svg" alt="NOXTRACE — multi-engine security workstation. Opens the repository." width="100%">
+    </picture>
+  </a>
+</p>
 
 ## my favorite tools 🎖️
 
