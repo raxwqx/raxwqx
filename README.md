@@ -49,6 +49,7 @@ A security toolkit designed to bring network reconnaissance, web inspection, sou
 
 | Project | Description | Language |
 |---|---|---|
+| **[ARGENT](https://github.com/raxwqx/argent)** | Symbolic execution engine for a 32-bit ISA, z3-backed, every solution replayed | Python |
 | **[NOXTRACE](https://github.com/raxwqx/NOXTRACE)** | Multi-engine security workstation | Multi-language |
 | **[TIDEWATCH](https://github.com/raxwqx/TIDEWATCH)** | Offline Linux log threat hunting | Rust |
 | **[styxscan](https://github.com/raxwqx/styxscan)** | HTTP, TLS and DNS reconnaissance | Python |
