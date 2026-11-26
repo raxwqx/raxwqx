@@ -27,8 +27,22 @@ Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antaly
 STYX-LAB is supported through fiscal sponsorship by [Hack Club Bank (HCB)](https://hcb.hackclub.com/).
 ---
 
-## Featured Project
+## Featured Projects
 <table>
+<tr>
+<td width="100%">
+
+### 💠 ARGENT
+**Symbolic Execution Engine · 32-bit ISA**
+
+A from-scratch symbolic executor: it assembles a text program, forks at data-dependent branches, prunes infeasible paths with z3, and replays every candidate input concretely before reporting it.
+
+`Python` `z3` `SMT` `Program Analysis`
+
+[**↗ View Repository**](https://github.com/raxwqx/argent) · [**◆ Live Pipeline**](https://raxwqx.github.io/argent/)
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
