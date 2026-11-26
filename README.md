@@ -28,7 +28,7 @@ STYX-LAB is supported through fiscal sponsorship by [Hack Club Bank (HCB)](https
 ---
 
 ## 🚀 Featured Projects
-
+ ---
 ### 💠 [ARGENT](https://github.com/raxwqx/argent)
 
 A from-scratch symbolic executor for a 32-bit ISA: it assembles a text program, forks at data-dependent branches, prunes infeasible paths with z3, and replays every candidate input concretely before reporting it.
@@ -39,6 +39,7 @@ A from-scratch symbolic executor for a 32-bit ISA: it assembles a text program, 
 [![Repository](https://img.shields.io/badge/Repository-argent-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raxwqx/argent)
 [![Live Pipeline](https://img.shields.io/badge/Live_Pipeline-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://raxwqx.github.io/argent/)
 
+ ---
 ### 🔎 [NOXTRACE](https://github.com/raxwqx/NOXTRACE)
 
 A multi-engine security workstation that brings network reconnaissance, web inspection, source-code analysis, and digital investigation into one workflow.
