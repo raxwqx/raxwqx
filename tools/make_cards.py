@@ -98,9 +98,9 @@ def radar() -> str:
 
 def card(p: dict) -> str:
     art = hexdump() if p["art"] == "hexdump" else radar()
-    lines = textwrap.wrap(p["description"], width=78)
+    lines = textwrap.wrap(p["description"], width=62)
     desc = "".join(
-        f'<text x="52" y="{228 + i * 24}" font-family="{MONO}" font-size="16" '
+        f'<text x="52" y="{236 + i * 26}" font-family="{MONO}" font-size="20" '
         f'fill="#8b949e">{line}</text>'
         for i, line in enumerate(lines)
     )
@@ -163,7 +163,7 @@ def card(p: dict) -> str:
                 fill="#6e7681">{p['role']}</text>
 
           {desc}
-          <text x="52" y="282" font-family="{MONO}" font-size="13" letter-spacing="1"
+          <text x="52" y="288" font-family="{MONO}" font-size="15" letter-spacing="1"
                 fill="#6e7681">{tags}</text>
 
           <g opacity="0.9">

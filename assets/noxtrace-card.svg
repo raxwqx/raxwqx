@@ -51,8 +51,8 @@
   <text x="82" y="202" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4.5"
         fill="#6e7681">MULTI-ENGINE SECURITY WORKSTATION</text>
 
-  <text x="52" y="228" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">Network reconnaissance, web inspection, source analysis and digital</text><text x="52" y="252" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">investigation in one workflow.</text>
-  <text x="52" y="282" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1"
+  <text x="52" y="236" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8b949e">Network reconnaissance, web inspection, source analysis and</text><text x="52" y="262" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8b949e">digital investigation in one workflow.</text>
+  <text x="52" y="288" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="1"
         fill="#6e7681"><tspan fill="#58a6ff">&#183;</tspan>  Python    <tspan fill="#58a6ff">&#183;</tspan>  Go    <tspan fill="#58a6ff">&#183;</tspan>  Rust    <tspan fill="#58a6ff">&#183;</tspan>  C</text>
 
   <g opacity="0.9">
