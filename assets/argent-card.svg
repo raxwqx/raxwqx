@@ -1,0 +1,67 @@
+    <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300"
+         viewBox="0 0 1200 300" role="img"
+         aria-label="ARGENT — Symbolic Execution Engine">
+      <defs>
+        <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#f7f9fb"/>
+          <stop offset="0.45" stop-color="#d3dae2"/>
+          <stop offset="0.55" stop-color="#8b949e"/>
+          <stop offset="0.68" stop-color="#c3ccd5"/>
+          <stop offset="1" stop-color="#7d8792"/>
+        </linearGradient>
+        <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#cfe4ff"/>
+          <stop offset="0.5" stop-color="#79b8ff"/>
+          <stop offset="1" stop-color="#388bfd"/>
+        </linearGradient>
+        <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stop-color="#c9d1d9" stop-opacity="0.95"/>
+          <stop offset="0.45" stop-color="#c9d1d9" stop-opacity="0.30"/>
+          <stop offset="1" stop-color="#c9d1d9" stop-opacity="0"/>
+        </linearGradient>
+        <radialGradient id="glow" cx="0.82" cy="0.2" r="0.75">
+          <stop offset="0" stop-color="#c9d1d9" stop-opacity="0.10"/>
+          <stop offset="1" stop-color="#c9d1d9" stop-opacity="0"/>
+        </radialGradient>
+        <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+          <path d="M32 0H0V32" fill="none" stroke="#161b22" stroke-width="1"/>
+        </pattern>
+        <clipPath id="frame">
+          <rect width="1200" height="300" rx="16"/>
+        </clipPath>
+      </defs>
+
+      <rect width="1200" height="300" rx="16" fill="#0b0f14"/>
+      <g clip-path="url(#frame)">
+        <rect width="1200" height="300" fill="url(#grid)" opacity="0.7"/>
+        <rect width="1200" height="300" fill="url(#glow)"/>
+        <rect y="298" width="1200" height="2" fill="url(#rule)"/>
+        <rect x="52" y="132" width="3" height="68" fill="#c9d1d9" opacity="0.55"/>
+      </g>
+      <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none"
+            stroke="#21262d"/>
+
+      <text x="52" y="62" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="4"
+            fill="#6e7681">01</text>
+      <text x="1148" y="62" text-anchor="end" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="12"
+            letter-spacing="2" fill="#6e7681">raxwqx/argent</text>
+
+      <text x="80" y="170" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="62" font-weight="700"
+            letter-spacing="7" fill="url(#metal)">ARGENT</text>
+      <text x="82" y="202" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4.5"
+            fill="#6e7681">SYMBOLIC EXECUTION ENGINE</text>
+
+      <text x="52" y="228" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">Forks at data-dependent branches, prunes infeasible paths with z3, and replays</text><text x="52" y="252" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">every reported input concretely.</text>
+      <text x="52" y="282" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1"
+            fill="#6e7681"><tspan fill="#c9d1d9">&#183;</tspan>  Python    <tspan fill="#c9d1d9">&#183;</tspan>  z3    <tspan fill="#c9d1d9">&#183;</tspan>  SMT    <tspan fill="#c9d1d9">&#183;</tspan>  32-bit ISA</text>
+
+      <g opacity="0.9">
+        <text x="860" y="118" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1" fill="#6e7681">4d 5a 90 00 03 00 00 00</text>
+<text x="860" y="148" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1" fill="#8b949e">04 00 00 00 ff ff 00 00</text>
+<text x="860" y="178" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1" fill="#8b949e">b8 00 00 00 00 00 00 00</text>
+<text x="860" y="208" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="1" fill="#8b949e">40 00 00 00 00 00 00 00</text>
+<rect x="882" y="105" width="19" height="17" rx="3" fill="#c9d1d9" fill-opacity="0.10" stroke="#8b949e" stroke-opacity="0.45"/>
+      </g>
+      <text x="1148" y="274" text-anchor="end" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="18"
+            fill="#c9d1d9" fill-opacity="0.75">&#8599;</text>
+    </svg>

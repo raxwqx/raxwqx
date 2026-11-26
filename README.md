@@ -27,37 +27,19 @@ Proud member of the [GDG Antalya community](https://gdg.community.dev/gdg-antaly
 STYX-LAB is supported through fiscal sponsorship by [Hack Club Bank (HCB)](https://hcb.hackclub.com/).
 ---
 
-## Featured Projects
-<table>
-<tr>
-<td width="100%">
+## ◈ Selected Work
 
-### 💠 ARGENT
-**Symbolic Execution Engine · 32-bit ISA**
+<p align="center">
+  <a href="https://github.com/raxwqx/argent">
+    <img src="assets/argent-card.svg" alt="Argent — a symbolic execution engine for a 32-bit ISA, z3-backed, with every reported input replayed concretely" width="100%">
+  </a>
+</p>
 
-A from-scratch symbolic executor: it assembles a text program, forks at data-dependent branches, prunes infeasible paths with z3, and replays every candidate input concretely before reporting it.
-
-`Python` `z3` `SMT` `Program Analysis`
-
-[**↗ View Repository**](https://github.com/raxwqx/argent) · [**◆ Live Pipeline**](https://raxwqx.github.io/argent/)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🔎 NOXTRACE
-**Multi-Engine Security Workstation**
-
-A security toolkit designed to bring network reconnaissance, web inspection, source-code analysis, and digital investigation into one workflow.
-
-`Python` `Go` `Rust` `C` `Java` `Bash`
-
-[**↗ View Repository**](https://github.com/raxwqx/NOXTRACE)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/raxwqx/NOXTRACE">
+    <img src="assets/noxtrace-card.svg" alt="NOXTRACE — a multi-engine security workstation for reconnaissance, web inspection, source analysis and digital investigation" width="100%">
+  </a>
+</p>
 
 ## my favorite tools 🎖️
 
