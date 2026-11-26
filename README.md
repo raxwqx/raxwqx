@@ -50,6 +50,7 @@ A multi-engine security workstation that brings network reconnaissance, web insp
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 [![Repository](https://img.shields.io/badge/Repository-NOXTRACE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raxwqx/NOXTRACE)
 
+ ---
 ## my favorite tools 🎖️
 
 | Project | Description | Language |
