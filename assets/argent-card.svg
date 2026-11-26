@@ -51,8 +51,8 @@
       <text x="82" y="202" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="4.5"
             fill="#6e7681">SYMBOLIC EXECUTION ENGINE</text>
 
-      <text x="52" y="228" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">Forks at data-dependent branches, prunes infeasible paths with z3, and replays</text><text x="52" y="252" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="16" fill="#8b949e">every reported input concretely.</text>
-      <text x="52" y="282" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1"
+      <text x="52" y="236" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8b949e">Forks at data-dependent branches, prunes infeasible paths with</text><text x="52" y="262" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="20" fill="#8b949e">z3, and replays every reported input concretely.</text>
+      <text x="52" y="288" font-family="Fira Code, DejaVu Sans Mono, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="1"
             fill="#6e7681"><tspan fill="#c9d1d9">&#183;</tspan>  Python    <tspan fill="#c9d1d9">&#183;</tspan>  z3    <tspan fill="#c9d1d9">&#183;</tspan>  SMT    <tspan fill="#c9d1d9">&#183;</tspan>  32-bit ISA</text>
 
       <g opacity="0.9">
