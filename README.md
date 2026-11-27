@@ -47,6 +47,8 @@ STYX-LAB is supported through fiscal sponsorship by [Hack Club Bank (HCB)](https
   </a>
 </p>
 
+---
+
 ## my favorite tools 🎖️
 
 | Project | Description | Language |
